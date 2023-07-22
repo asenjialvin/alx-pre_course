@@ -1,4 +1,4 @@
-#[# Project Title: Awesome Learning Repository
+# Project Title: Awesome Learning Repository
 
 ## Description:
 
@@ -10,4 +10,4 @@ The primary goal of this project is to create an inclusive and user-friendly lea
 
 The application leverages modern web technologies such as HTML, CSS, JavaScript, and relies on a robust backend server powered by Node.js and Express. Additionally, it employs a database to efficiently store and retrieve learning resources, user profiles, and interactions. The responsive design ensures a seamless learning experience across various devices, from desktop computers to mobile phones.
 
-Please refer to the Table of Contents below to learn more about navigating the repository, contributing to its growth, and the licensing terms under which it operates.]
+Please refer to the Table of Contents below to learn more about navigating the repository, contributing to its growth, and the licensing terms under which it operates.
